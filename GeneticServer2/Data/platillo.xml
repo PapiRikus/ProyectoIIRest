@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<restaurant>
+
+    <platillo>
+        <nombre> "Arroz con Pollo" </nombre>
+        
+        <ingredientes>             
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "arroz" </nombreIngrediente>
+            </ingrediente>                           
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "carnes" </tipo>
+                <nombreIngrediente> "pollo" </nombreIngrediente>
+            </ingrediente>        
+        </ingredientes>
+        
+        <informacionNutricional> "Excelente" </informacionNutricional>
+        
+        <precio> 1000 </precio>
+        
+        <tiempoPreparacion> 50 </tiempoPreparacion>
+        
+        <receta> "Cocinar el arroz y el pollo.Revolverlos y agregar olores" </receta>                    
+    </platillo>
+
+
+    <platillo>
+        <nombre> "Sopa azteca" </nombre>
+        
+        <ingredientes>             
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "ajo" </nombreIngrediente>
+            </ingrediente>                           
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "cebolla" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 4 </cantidad>
+                <tipo> "frutas" </tipo>
+                <nombreIngrediente> "tomate" </nombreIngrediente>
+            </ingrediente>    
+            <ingrediente> 
+                <cantidad> 3 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "chile pasilla" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "sal y pimienta" </nombreIngrediente>
+            </ingrediente>  
+            <ingrediente> 
+                <cantidad> 8 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "tortilla de maíz" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "carnes" </tipo>
+                <nombreIngrediente> "pechuga de pollo cocida" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "queso panela" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "queso crema" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "frutas" </tipo>
+                <nombreIngrediente> "aguacate" </nombreIngrediente>
+            </ingrediente>
+        </ingredientes>
+        
+        <informacionNutricional> "121 calorías, 3.01g grasa, 16.01g carbohidratos, 8.02g proteínas" </informacionNutricional>
+        
+        <precio> 2500 </precio>
+        
+        <tiempoPreparacion> 120 </tiempoPreparacion>
+        
+        <receta> "En una olla poner a calentar el aceite agregar el ajo y la cebolla, añadir el tomate rojo junto con los 2 chiles pasilla, agregar el caldo de pollo, el epazote, sal, la pimienta y los cuadros de tortilla, dejar hervir y licuar todo junto.Regresar todo licuado ala olla y en fuego lento sazonar hasta espesar.**Para servir**: se acompaña con el pollo deshebrado, las tortillas en julianas, el queso en cubos un poco de crema, aguacate en cubos y un poco de chile pasilla" </receta>                    
+    </platillo>
+    
+    <platillo>
+        <nombre> "Lasaña" </nombre>
+        
+        <ingredientes>             
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "harina" </nombreIngrediente>
+            </ingrediente>                           
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "leche" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "mantequilla" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 12 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "pasta de lasaña" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "carnes" </tipo>
+                <nombreIngrediente> "carne picada" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "cebolla" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "ajo" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "frutas" </tipo>
+                <nombreIngrediente> "lata 400g tomate triturado" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "frutas" </tipo>
+                <nombreIngrediente> "100g tomate frito" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "500g queso rallado" </nombreIngrediente>
+            </ingrediente>    
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "mantequilla" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "vegetal" </tipo>
+                <nombreIngrediente> "2 litros de agua" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "sal" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "pimienta negra molida" </nombreIngrediente>
+            </ingrediente>             
+        </ingredientes>
+        
+        <informacionNutricional> "336 calorías, 12.38g grasa, 35.43g carbohidratos, 20.52g proteínas." </informacionNutricional>
+        
+        <precio> 2000 </precio>
+        
+        <tiempoPreparacion> 60 </tiempoPreparacion>
+        
+        <receta> "Tomar la harina, leche y mantequilla y hacer la salsa bechamel.Pon a calentar el aceite en una sartén a fuego medio y cuando esté caliente añade la cebolla y el ajo picado. Deja que se poche todo y si ves que hay zonas que empiezan a tostarse demasiado añade un chorrito de agua y mezcla bien.Cuando esté todo bien pochado añade la carne picada. Ahora tenemos que dar golpecitos con el canto de una espumadera para que se separe bien la carne y no te olvides de remover bien para que no se queme la carne que está en el fondo.Cuando la carne esté bien hecha (unos 20 o 30 minutos) añade el tomate triturado, el tomate frito, 1 cucharada pequeña de sal y media cucharada de pimienta. Mezcla bien y cocina a fuego fuerte durante unos 5 minutos para que se concentre el tomate.Cuando esté en su punto prueba la carne y si hace falta añade un poco más de sal y pimienta.Luego aparta la sartén del fuego y pon a calentar en una olla 2 litros de agua con 2 cucharadas pequeña de sal.Cuando hierva añade las láminas de lasaña y deja a fuego medio hasta que estén en su punto (unos 8 minutos).Luego con la ayuda de una espumadera y un tenedor ve poniendo las láminas de lasaña sobre una servilleta de tela.Ahora engrasamos con mantequilla la fuente en la que haremos la lasaña.Después colocamos una capa de pasta en el fondo y encima una capa de carne.Repite dos veces hasta formar tres capas de pasta y carne. Por último, tapa la lasaña con una capa más de pasta y vuelca encima la bechamel.Ahora reparte el queso rallado por encima y al horno. Dejamos a 180º Centígrados y con el grill puesto hasta que se dore el queso.Cuando esté lista nuestra lasaña de carne la sacamos con cuidado de no quemarnos y la cortamos en seis porciones. Y eso es todo, solo nos queda servir y listo" </receta>                    
+    </platillo>
+    
+    <platillo>
+        <nombre> "Pollo Frito" </nombre>
+        
+        <ingredientes>             
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "vaso de harina de trigo" </nombreIngrediente>
+            </ingrediente>                           
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "carnes" </tipo>
+                <nombreIngrediente> "piezas de pollo" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente>
+            <cantidad> 2 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "vaso de pan rallado" </nombreIngrediente>
+            </ingrediente>
+            
+            <ingrediente>
+            <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "cucharada de especies" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente>
+            <ingrediente>
+            <cantidad> 1 </cantidad>
+                <tipo> "carnes" </tipo>
+                <nombreIngrediente> "huevo" </nombreIngrediente>
+            </ingrediente>  
+            <ingrediente>
+            <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "200ml de leche" </nombreIngrediente>
+             </ingrediente>   
+            <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "sal y pimienta" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+            <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "aceite para freir" </nombreIngrediente>
+            </ingrediente>        
+        </ingredientes>
+        
+        <informacionNutricional> "612 Calorías, 40.8g grasa, 29.8g carbohidratos, 31.8g proteínas." </informacionNutricional>
+        
+        <precio> 1500 </precio>
+        
+        <tiempoPreparacion> 60 </tiempoPreparacion>
+        
+        <receta> " Preparamos lo que será el rebozado exterior. Ponemos el huevo y la leche en un plato hondo y batimos ambos ingredientes. Hasta que quede una mezcla de color crema y sin grumos del huevo.En otro plato preparamos la otra parte del empanizado. Ponemos la harina, el pan rallado, las especias (puedes poner las que quieras pero las sugeridas en el apartado de ingredientes, quedan muy muy bien) y mezclamos todos los ingredientes con las manos hasta que queden todos homogéneamente mezclados.Pasamos las alitas por la mezcla de harina pan rallado y especias, después por la mezcla del huevo y la leche y después nuevamente por la mezcla de harina y pan rallado. Que quede bien embadurnado de estos ingredientes. Reservamos en un plato hasta haber terminado de empanar todas las alitas.Una vez empanadas, metemos las alitas en la nevera durante una hora para que el empanado exterior se asiente bien.Finalmente, freímos las alitas en abundante aceite, durante unos 5 minutos. El aceite debe estar caliente, pero tampoco demasiado para que las alitas se frían bien su interior sin que el empanizado exterior llegue a quemarse" </receta>                    
+    </platillo>
+    
+    <platillo>
+        <nombre> "Cheesecake" </nombre>
+        
+        <ingredientes>             
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "250 grs de queso crema" </nombreIngrediente>
+            </ingrediente>                           
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "azucar" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "harina" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "leche" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "queso tipo Mendicrim" </nombreIngrediente>
+            </ingrediente>  
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "cucharada de té de esencia de vainilla" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 20 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "galletitas tipo Lincoln molidas" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "cucharadas de manteca derretida" </nombreIngrediente>
+            </ingrediente>         
+        </ingredientes>
+        
+        <informacionNutricional> "410 calorías, 24.58g grasa, 37.27g carbohidratos, 11.1g proteínas" </informacionNutricional>
+        
+        <precio> 4000 </precio>
+        
+        <tiempoPreparacion> 30 </tiempoPreparacion>
+        
+        <receta> "Precalentar el horno a 175 C (moderado).Enmantecar una tartera desmontable. En un bowl, mezclar las galletitas molidas con la manteca derretida. Presionar la preparación con la parte inferior de un vaso sobre la tartera para que quede bien compacto.Con una batidora eléctrica, batir el queso Philadelphia hasta lograr una consistencia cremosa y que no tenga grumos.Batir el harina y azúcar juntos para evitar grumos.Agregar esta mezcla al queso crema e incorporar bien todos los ingredientes con una espátula de plástico, raspando bien los bordes del bowl y evitar que se formen grumos, agregar huevos, de a uno por vez, y raspando bien el bowl después de cada adición. Incorporar la esencia de vainilla (u otros savorizantes líquidos, como extracto de almendras) en este momento.La textura de la mezcla final debe ser suave y brillante, retirar la batidora con cuidado, No incorporar los restos de mezcla que hayan quedado en las paletas para mezclar.Colocar la preparación en una tartera desmontable cubierta con una base de galletitas molidas y manteca.Utilizar la punta de un cuchillo pequeño o palito de brochette para haceer líneas del centro hacia afuera como si fueran los rayos de una rueda de bicicleta.Llevar al horno por una hora, y luego apagar el horno y dejar que la torta se enfríe adentro del horno por 2 horas, enfriar en la heladera hasta el momento de servir." </receta>                    
+    </platillo>
+    
+     <platillo>
+        <nombre> "Gallo Pinto" </nombre>
+        
+        <ingredientes>             
+            <ingrediente> 
+                <cantidad> 2 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "tazas de arroz cocidos" </nombreIngrediente>
+            </ingrediente>                           
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "taza de frijoles negros cocinados" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "taza de caldo de frijoles" </nombreIngrediente>
+            </ingrediente> 
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "cebolla picada" </nombreIngrediente>
+            </ingrediente>    
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "culantro picado" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "granos" </tipo>
+                <nombreIngrediente> "pimienta" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "lacteos" </tipo>
+                <nombreIngrediente> "queso" </nombreIngrediente>
+            </ingrediente>
+            <ingrediente> 
+                <cantidad> 1 </cantidad>
+                <tipo> "vegetales" </tipo>
+                <nombreIngrediente> "plátano maduro" </nombreIngrediente>
+            </ingrediente>  
+        </ingredientes>
+        
+        <informacionNutricional> "200 calorías, 5g grasa, 7g carbohidratos, 7g proteínas" </informacionNutricional>
+        
+        <precio> 1500 </precio>
+        
+        <tiempoPreparacion> 50 </tiempoPreparacion>
+        
+       <receta> "Poner aceite en una sartén y dejar que caliente bien.Poner la cebolla a freír cuando cristalice agregar el chile dulce y dejar freír un rato mas.Echar los frijoles con el caldo y el culantro revolver bien y dejarlo hasta hierva tapado.Echar el arroz y revolver bien de manera que el arroz y los frijoles esten bien distribuidos.Deje en el fuego hasta que seque.Fría los plátanos en aceite. Sirva el pinto con el queso y los plátanos maduros" </receta>                    
+    </platillo>
+</restaurant>
